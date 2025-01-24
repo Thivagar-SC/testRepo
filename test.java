@@ -1,2 +1,7 @@
-# some file shit
+// some file shit
 
+public class test{
+    public static void main(){
+
+    }
+}
